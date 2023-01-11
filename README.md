@@ -17,6 +17,4 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHPARK0504&layout=compact&theme=swift" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JHPARK0504&show_icons=true&theme=swift" height="150"/>
 </div>
