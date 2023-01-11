@@ -4,6 +4,9 @@
     <a href="https://jh9854.tistory.com//"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <a href="mailto:9854jh@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4536?style=flat-square&logo=Gmail&logoColor=white"/></a>
    </div>
+  
+  <div>
+    <h4>Currently I Belong to Elice AI Track 6</h4>
    
    <div>
     <h4>I'm Currently Learning</h4>
