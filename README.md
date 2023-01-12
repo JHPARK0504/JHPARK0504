@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Javascript-de9d27?style=flat-square&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-17b6e7?style=flat-square&logo=React&logoColor=white"/>
   </div>
+    
+   [JOOHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHPARK0504&show_icons=true&theme=radical)
 </div>
 
 ---
