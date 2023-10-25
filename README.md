@@ -1,28 +1,39 @@
-<div align="center">
-  <div>
-    <h4>INTRODUCE</h4>
-    <a href="https://jh9854.tistory.com//"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-    <a href="mailto:9854jh@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4536?style=flat-square&logo=Gmail&logoColor=white"/></a>
-   </div>
+
   
-  <div>
-    <h4>Currently I Belong to Elice AI Track 6</h4>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JHPARK0504&show_icons=true&theme=buefy"/><br>
+  ### 😽Park Joo Hyun😽
+  #### __🌱 Back-End Engineer__
+  <br>
+  <br>
+  
+  ---
+ <br>
    
-   <div>
-    <h4>I'm Currently Learning</h4>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript-de9d27?style=flat-square&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-17b6e7?style=flat-square&logo=React&logoColor=white"/>
-  </div>
-    
+## 🙋‍♂️ Personal Info
+- 9854jh@gmail.com
+- [https://velog.io/](https://velog.io/@9854jh)
 
-</div>
+  
+## 🔨 Technology Stacks
+- Frontend :
 
----
+<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
+<span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHPARK PARK&layout=compact&theme=swift" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JHPARK PARK&show_icons=true&theme=swift" height="150"/>
-</div>
+- Backend : <span><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></span> 
+
+- Database :
+<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+
+
+- Version Control :
+<span><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></span>
+- Deployment
+<span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
+ 
